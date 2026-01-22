@@ -1,1 +1,28 @@
-# Html3
+<html>
+<head>
+<title>Refreshment List</title>
+</head>
+<body Bgcolor=”pink”>
+<h2>Refreshment List</h2>
+<ol type="1">
+<li>Hot Drinks
+<ul type="disc">
+<li>Tea</li>
+<li>Coffee</li>
+</ul>
+</li>
+<li>Cold Drinks
+<ul type="circle">
+<li>Juice</li>
+<li>Cold Coffee</li>
+</ul>
+</li>
+<li>Snacks
+<ul type="square">
+<li>Sandwich</li>
+<li>Biscuits</li>
+</ul>
+</li>
+</ol>
+</body>
+</html>
